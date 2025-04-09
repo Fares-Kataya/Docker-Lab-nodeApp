@@ -38,5 +38,5 @@ jobs:
       with:
         context: .
         push: true
-        tags: Docker/NodeApp
+        tags: fareskataya00/docker-nodeapp
     
